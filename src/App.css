@@ -1,0 +1,20 @@
+*{
+  background-color: rgb(161, 210, 241);
+ 
+}
+.main{
+  text-align: center;
+  margin-left: 10%;
+  margin-right: 10%;
+  
+}
+.card{
+  margin-left: 35%;
+  margin-right: 30%;
+  background-color: black;
+  color:black;
+}
+.card-body{
+  background-color: black;
+  color:black;
+}
